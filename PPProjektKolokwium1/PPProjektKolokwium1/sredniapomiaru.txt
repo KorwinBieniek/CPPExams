@@ -1,0 +1,6 @@
+nazwa_urzadzenia_1 
+numer_seryjny_urzadzenia_1 
+4.1
+nazwa_urzadzenia_2 
+numer_seryjny_urzadzenia_2 
+5.38889

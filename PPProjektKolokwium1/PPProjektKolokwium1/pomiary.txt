@@ -1,0 +1,6 @@
+nazwa_urzadzenia_1 
+numer_seryjny_urzadzenia_1 
+3 6 6 3 2.5
+nazwa_urzadzenia_2 
+numer_seryjny_urzadzenia_2 
+8 9 4 3 3 1 2 4 14.5
